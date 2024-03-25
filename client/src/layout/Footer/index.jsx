@@ -63,9 +63,9 @@ const Footer = () => {
                 <h5 className="mt-3">Contact</h5>
                 <ul>
                   {[
-                    {Icon: AiFillHome, text: "New York, NY 10012, US"},
-                    {Icon: FaEnvelope, text: "info@example.com"},
-                    {Icon: FaPhoneAlt, text: "+ 01 234 567 88"},
+                    {Icon: AiFillHome, text: "Malabe, Kurunegala"},
+                    {Icon: FaEnvelope, text: "support.dream.lk"},
+                    {Icon: FaPhoneAlt, text: "+94 00 000 000 00"},
                   ].map(({Icon, text}) => (
                     <li className="mb-3" key={text}>
                       <Icon size={20} className="me-2" /> {text}
