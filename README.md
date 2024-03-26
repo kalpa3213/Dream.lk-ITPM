@@ -5,13 +5,16 @@ This is a full-stack e-commerce website developed as a third-year university pro
 Technologies Used
 
 Frontend:
+
     React
     Redux Toolkit
     Reactstrap
     Styled Components
     Formik
     Yup
+
 Backend:
+
     Node.js
     Express
     MongoDB
@@ -21,7 +24,9 @@ Backend:
     Additional Tools:
     Multer
     Sharp
-Features
+
+Features:
+
     Well-organized folder structure
     Reusable components
     State management using Redux Toolkit
